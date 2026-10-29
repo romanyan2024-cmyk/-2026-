@@ -1,0 +1,8 @@
+{
+  "name": "تطبيق إدارة صناع القادة",
+  "description": "تطبيق إدارة صناع القادة لإدارة بيانات الخدام والمشرفين والأطفال والإحصائيات والبحث والتعديل - إشراف Romany Adly",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
